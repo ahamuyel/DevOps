@@ -1,0 +1,21 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahamuyel/DevOps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahamuyel/DevOps/issues"
+  },
+  "homepage": "https://github.com/ahamuyel/DevOps#readme"
+}
